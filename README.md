@@ -97,7 +97,10 @@ If you'd like a working backend, frontend, or automation logic for JobNexus Pro 
 
 ## 🧑‍💻 Author
 
+**Akash Divvela**
+[LinkedIn](https://www.linkedin.com/in/akash-divvela/) | [Email](mailto:divvelaakash@gmail.com)
 
+---
 
 
 
