@@ -28,27 +28,26 @@ A detailed Entity-Relationship Diagram (ERD) is provided to visualize the databa
 
 ## 🗂️ Folder Structure
 📁 JobNexus_Pro/
-├── README.md                     # Full project overview: setup, features, usage, queries
-
-├── Database/                     # All DDL and DML scripts
-│   ├── JobNexus_Pro.sql          # Full database schema (DDL)
-│   └── insert_data.sql           # Sample data inserts (DML)
-
-├── Queries/                      # SQL queries for analytics and insights
-│   └── analytics_queries.sql     # 10+ advanced SQL queries (JOINs, aggregations, recommendations)
-
-├── Documents/                         # Documentation for database and system architecture
-│   ├── Database_Description.md   # Table-wise explanation with keys and relationships
-│   └── project_architecture.md   # Text-based explanation of data flow and system logic
-
-├── Diagrams/                     # ERDs and visual schema diagrams
-│   ├── ERD.png                   # Basic Entity-Relationship Diagram
-│   └── Detailed_ERD.png          # Detailed schema layout (high-res)
-
-├── Results/                      # Sample outputs from query execution
-│   ├── Sample_Results.sql        # Result-oriented SQL queries
-│   └── Results.pdf               # Query outputs, visualizations, or screenshots (PDF format)
-
+│   └── README.md                    # Full project overview: setup, features, usage, and queries
+│
+├── 📁 Database/                     # All DDL and DML scripts
+│   ├── JobNexus_Pro.sql            # Full database schema (DDL)
+│   └── insert_data.sql             # Sample data inserts (DML)
+│
+├── 📁 Queries/                      # SQL queries for analytics and insights
+│   └── analytics_queries.sql       # 10+ advanced SQL queries (JOINs, aggregations, recommendations)
+│
+├── 📁 Documents/                    # Documentation for database and system architecture
+│   ├── Database_Description.md     # Table-wise explanation with keys and relationships
+│   └── project_architecture.md     # Text-based explanation of data flow and system logic
+│
+├── 📁 Diagrams/                     # ERDs and visual schema diagrams
+│   ├── ERD.png                     # Basic Entity-Relationship Diagram
+│   └── Detailed_ERD.png           # High-resolution detailed schema layout
+│
+└── 📁 Results/                      # Sample outputs from query execution
+    ├── Sample_Results.sql          # Result-oriented SQL queries
+    └── Results.pdf                 # Query outputs, visualizations, or screenshots (PDF format)
 
 
 
